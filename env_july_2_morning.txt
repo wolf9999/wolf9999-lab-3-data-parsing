@@ -1,6 +1,0 @@
-# env.txt
-python= 3.10
-pandas >=1.5
-jupyterlab
-ipykernel
-
